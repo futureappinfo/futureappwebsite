@@ -1,0 +1,26 @@
+main:
+  - name: Home                                             
+    url: "#home"
+    weight: 1
+    pageType: "same"
+  - name: How its Works
+    url: "#how-its-works"
+    pageType: "same"
+    weight: 2
+  - name: About Us
+    url: "#about"
+    pageType: "same"
+    weight: 3
+  - name: Log In
+    url: 'https://portal.futureapp.in/'
+    pageType: "external"
+    weight: 4
+    border: true
+  - name: Join Us
+    url: '#contact'
+    weight: 5
+    button: true
+
+
+
+    

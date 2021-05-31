@@ -1,0 +1,34 @@
+{% assign aboutsec = site.home.about %}
+{% if aboutsec.enabled %}
+<section class="section" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="sec-heading">                    
+                    <h2>{{aboutsec.heading}}</h2>
+                    <h3>{{aboutsec.subHeading}}</h3>
+                </div>
+                {{aboutsec.text}}
+            </div>
+            <div class="col-md-6">
+                <!-- <div class="video-icon" >
+                    <a class="popup-video btn-icon"  id="playerID" ><i class="fas fa-play"></i></a>
+                </div> -->
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="{{aboutsec.videoUrl}}" id="VdoID" aria-controls="0"  allowscriptaccess="always" allow="autoplay"></iframe>
+                  </div>
+                <!-- <img src="{{aboutsec.image}}" alt="{{aboutsec.heading}}" class="img-fluid"> -->
+
+      
+
+    
+    
+    
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</section>
+{% endif %}
