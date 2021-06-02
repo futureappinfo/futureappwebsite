@@ -97,7 +97,7 @@ home:
     - icon: "assets/images/school.png"
       number: 200
       afternumber: "+"
-      title: Happy School 
+      title: Happy Schools 
     - icon: "assets/images/satisfaction.png"
       number: 99
       afternumber: "%"
