@@ -3,7 +3,7 @@ exclude: ['README.md']
 permalink: pretty
 title: 'Future App'
 logo: "assets/images/logo.png"
-address: "Ahmedabad, Gujarat, 382481"
+address: "C-206, Ganesh Glory 11 Jagatpur Road, Sarkhej - Gandhinagar Highway, Gota, Ahmedabad, Gujarat 382470"
 call-chat:
   enable: true
   items:
