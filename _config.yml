@@ -91,7 +91,7 @@ home:
     image: "assets/images/counter-bg.jpg"
     lists:
     - icon: "assets/images/online-class.png"
-      number: 3000
+      number: 100000
       afternumber: "+"
       title: "Online Classes Conducted"
     - icon: "assets/images/school.png"
