@@ -43,8 +43,13 @@ sass:
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: ""
 
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: "UA-155864468-1"          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: "UA-155864468-1"
+#google_analytics: "UA-155864468-1"
 
 home:
   top-bar:
