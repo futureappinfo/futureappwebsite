@@ -2,6 +2,8 @@ baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Future App'
+tagline: "The All-in-One Educational Apps for School"
+description: "Connecting schools and parents via technology to make your child's future. FutureApp allows parents to stay updated about their kids progress. At the same time it helps school management to make routine work automated and easy"
 logo: "assets/images/logo.png"
 address: "C-206, Ganesh Glory 11 Jagatpur Road, Sarkhej - Gandhinagar Highway, Gota, Ahmedabad, Gujarat 382470"
 call-chat:
@@ -14,11 +16,11 @@ call-chat:
       title: "+91 9601412598"
       link: "https://wa.me/919601412598"
 social:
-  enable: false
+  enable: true
   items:
   - icon: "fab  fa-facebook-square"
     title: "facebook"
-    link: ""
+    link: "https://www.facebook.com/futureapp.in/"
   - icon: "fab fa-twitter-square"
     title: "twitter"
     link: ""
@@ -166,6 +168,7 @@ footer:
 gems:
 - jekyll-sitemap
 - jekyll-paginate
+- jekyll-seo-tag
 
 
 
