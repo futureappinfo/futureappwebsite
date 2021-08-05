@@ -169,7 +169,7 @@ gems:
 - jekyll-sitemap
 - jekyll-paginate
 - jekyll-seo-tag
-
+- jekyll-analytics
 
 
 # Exclude these files from your production _site
