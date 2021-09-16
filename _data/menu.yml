@@ -11,8 +11,8 @@ main:
     url: "#about"
     pageType: "same"
     weight: 3
-  - name: Sponsor
-    url: '/soponsers/'
+  - name: Sponsor 
+    url: '/sponsor/'
     pageType: "external"
     weight: 3
     button: true
