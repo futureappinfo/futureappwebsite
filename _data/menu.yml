@@ -11,6 +11,10 @@ main:
     url: "#about"
     pageType: "same"
     weight: 3
+  - name: Our Story
+    url: "#story"
+    pageType: "same"
+    weight: 3
   - name: Sponsor 
     url: '/sponsor/'
     pageType: "external"
