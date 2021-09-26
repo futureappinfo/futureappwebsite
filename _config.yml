@@ -70,7 +70,7 @@ home:
   about:
     enabled: true
     heading: "About Us"
-    subHeading: "Connecting schools and  parents via technology to make your <span>child's future</span>"
+    subHeading: "We connect schools with parents via FutureApp for making a contribution in students career"
     text: "<p>FutureApp allows parents to stay updated about their kids progress. At the same time it helps school management to make routine work automated and easy</p>"
     image: "assets/images/about.png"
     videoUrl: "https://www.youtube.com/embed/pcj1XNnABak"
@@ -101,7 +101,7 @@ home:
       afternumber: "+"
       title: Happy Schools
     - icon: "assets/images/satisfaction.png"
-      number: 99
+      number: 100
       afternumber: "%"
       title: Customer Satiscfaction
     - icon: "assets/images/review.png"
